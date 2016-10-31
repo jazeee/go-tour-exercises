@@ -44,4 +44,3 @@ func main() {
 	fmt.Println(Same(tree.New(3), tree.New(2)))
 	fmt.Println(Same(tree.New(2), tree.New(2)))
 }
-
